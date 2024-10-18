@@ -1,0 +1,16 @@
+# Ignore dataset files
+emotions.csv
+mental-state.csv
+emotions_first_100.csv
+
+# Ignore model directory
+models/
+
+# Ignore tuner directory
+tuner/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python cache directory
+__pycache__/
