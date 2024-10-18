@@ -1,11 +1,11 @@
-# EEG Emotion Recognition Project
+# EEG HealthCare Sector Project
 
 ## Project Description
-The EEG Emotion Recognition Project aims to leverage EEG (electroencephalogram) signals to classify emotional states. By analyzing brainwave patterns, the project seeks to develop a machine learning model that can accurately recognize different emotions, enhancing the understanding of human emotional responses and potentially aiding in mental health assessments and therapies.
+The EEG Care Sector Project aims to utilize EEG (electroencephalogram) signals for multiple applications, including emotional state classification, epilepsy diagnosis, and activity tracking. By analyzing brainwave patterns, the project seeks to develop robust machine learning models that leverage Random Forest for epilepsy diagnosis and Gated Recurrent Units (GRU) for emotion analysis. This multi-faceted approach enhances our understanding of human emotional responses and contributes to advancements in mental health assessments and therapies.
 
 ## Features
 - Preprocessing of EEG data for improved model training.
-- Training and evaluation of machine learning models for emotion classification.
+- Training and evaluation of machine learning models for emotion classification and epilepsy diagnosis.
 - Visualization of training and validation performance through learning curves.
 
 ## Requirements
